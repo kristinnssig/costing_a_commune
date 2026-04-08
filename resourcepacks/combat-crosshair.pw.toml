@@ -1,0 +1,13 @@
+name = "Combat Crosshair"
+filename = "CombatCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1aee5204b1fd5517fcc7662e642d169b2add2b2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4532534
+project-id = 860639

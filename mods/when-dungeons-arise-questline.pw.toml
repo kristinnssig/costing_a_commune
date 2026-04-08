@@ -1,0 +1,13 @@
+name = "When Dungeons Arise Questline"
+filename = "wda_questline-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "608bdf114da0eb5c64380bfa09dcbaf4d79ce2a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6958326
+project-id = 1340230

@@ -1,0 +1,13 @@
+name = "Farmer's Delight Wearable Cooking Pot"
+filename = "FarmersWearableCookingPot-v0.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48049d0849b555e2bf92196c156357b2310402c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6053984
+project-id = 1171888

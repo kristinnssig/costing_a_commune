@@ -1,0 +1,13 @@
+name = "Modern Armour Bar"
+filename = "ModernArmourBar.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9541c90a5e68cc95771cd94424de75b460a624d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907480
+project-id = 1141114

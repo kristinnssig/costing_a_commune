@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"sophisticatedbackpacks:gold_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:iron_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedbackpacks:backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:aphorism_tile"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"croptopia:roe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pneumaticcraft:ingot_iron_compressed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"more_curios_slots:extra_curio_slot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

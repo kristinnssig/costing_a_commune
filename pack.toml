@@ -1,0 +1,13 @@
+name = "Costing a Commune"
+author = "kristinnsnr"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2381dc47eff51738b3b765756c4f4eb3c47ba8dcf315f4979c39788db5e73b0c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.224"

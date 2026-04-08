@@ -1,0 +1,13 @@
+name = "Create: Sky Village"
+filename = "create_sky_village-0.0.36 Hotfix-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7639949eb2ede6956b1537785bcc2c2f0ec35b9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7776969
+project-id = 1104939

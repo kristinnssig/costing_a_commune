@@ -1,0 +1,13 @@
+name = "Central Crosshair"
+filename = "CentralCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6e0c21277f6a98409acb4ee9a9740dace2b47f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907457
+project-id = 1141104

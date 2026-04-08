@@ -1,0 +1,13 @@
+name = "Modern Crosshair"
+filename = "ModernCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4803506d855391174439edace8363a4ce24b547a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4532539
+project-id = 860643

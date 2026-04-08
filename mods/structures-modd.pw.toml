@@ -1,0 +1,13 @@
+name = "Structures – Structures & Exploration"
+filename = "structures-2.4-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b5970b9e00026e8d7f86891d785a99e8b27e28b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7697890
+project-id = 1391238

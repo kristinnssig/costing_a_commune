@@ -1,0 +1,13 @@
+name = "X Crosshair Shape"
+filename = "X-Crosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48cb571edc50581cbe149f12244689f1c6b9fb11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907489
+project-id = 1141118

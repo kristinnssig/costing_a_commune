@@ -1,0 +1,13 @@
+name = "Clean Swords"
+filename = "CleanSwords.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "178bc2ef381ba89de6de555e9b8103b8b36968db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4536662
+project-id = 861800

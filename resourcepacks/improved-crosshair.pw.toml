@@ -1,0 +1,13 @@
+name = "Improved Crosshair"
+filename = "ImprovedCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a78eab207ceb093af6a8a67530924bbefc580ddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5907466
+project-id = 1141106

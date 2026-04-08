@@ -1,0 +1,13 @@
+name = "Simplistic Menu"
+filename = "SimplisticMenu-v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0e82ae3cc4ab954496575400d35232336596deb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4535502
+project-id = 860281

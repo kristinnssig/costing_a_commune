@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-5.0.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "380dc6a0860b722ff5a781df8bee18f4aece48e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7315300
+project-id = 1290628

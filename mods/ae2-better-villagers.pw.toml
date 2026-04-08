@@ -1,0 +1,13 @@
+name = "AE2: Better Villagers"
+filename = "ae_better_villagers-1.15.1.b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8500ef5779c6eefab42e9ca6603f6cd82b3b5dda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5956265
+project-id = 1148167

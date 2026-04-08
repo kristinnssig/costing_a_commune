@@ -1,0 +1,13 @@
+name = "Greek Food - A Farmer's Delight Addon"
+filename = "greek_food-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2570fe173c3fa624e74139ab6d8d13c728488a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7669919
+project-id = 1461352

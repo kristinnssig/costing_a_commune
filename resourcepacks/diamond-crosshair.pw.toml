@@ -1,0 +1,13 @@
+name = "Diamond Crosshair"
+filename = "DiamondCrosshair.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ad0fe940ad6528fd1dec209955221a9be5a50b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5046706
+project-id = 964425
