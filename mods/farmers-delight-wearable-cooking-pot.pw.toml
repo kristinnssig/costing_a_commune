@@ -3,9 +3,9 @@ filename = "FarmersWearableCookingPot-v0.1-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "48049d0849b555e2bf92196c156357b2310402c9"
-mode = "metadata:curseforge"
+url = "https://mediafilez.forgecdn.net/files/6053/984/FarmersWearableCookingPot-v0.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "a69c7ef04b46a950279450b228c6ab7dec6981a78fd4a7da8180dcee5bc5c04f"
 
 [update]
 [update.curseforge]

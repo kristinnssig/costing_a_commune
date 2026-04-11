@@ -3,11 +3,11 @@ filename = "trek-B0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "546a8e4052217d906c707b45d94b53e82b071482"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/h2jngREY/versions/fMlqHMUb/trek-B0.6.jar"
+hash-format = "sha512"
+hash = "80d8b7ee67259d5c7b906c287b5672fbc620a0b73b81b907522f8d76af2427211a95483aa5ac068d5e769fb94d92a6129d7e6f988f5ee6ade3134200e32e06a6"
 
 [update]
-[update.curseforge]
-file-id = 7715726
-project-id = 1418999
+[update.modrinth]
+mod-id = "h2jngREY"
+version = "fMlqHMUb"
