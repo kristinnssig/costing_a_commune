@@ -1,0 +1,13 @@
+name = "Create: Double Ores"
+filename = "create_double_ore-1.21.1-1.0.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc8e4fc32528cb97a61df3630e02104970b11b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7681069
+project-id = 1340156

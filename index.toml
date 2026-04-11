@@ -2622,6 +2622,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "1e1bf663600d9382f6bb637c657d8cac6d6bfe196637ceb2eb75812a54de47f6"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
@@ -2714,6 +2719,11 @@ metafile = true
 [[files]]
 file = "mods/create-dimension-steamworks-realm.pw.toml"
 hash = "a35ac69e0cb46f62284d09043b29624131c817eb1e57a4ce61fd51a71322856a"
+metafile = true
+
+[[files]]
+file = "mods/create-double-ores.pw.toml"
+hash = "4ba2d007ab2b0fa392a14e127a914e1f576f1399c29ced1152392e4f444018f0"
 metafile = true
 
 [[files]]
@@ -2904,6 +2914,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "038abf0e9aceb1d435429b6dce905e1a8280f43140debb3f45f134078c81bf39"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "00f40009395dc60d8a67b6dddf155239b6e94867da16f1e26718f697c3065d73"
 metafile = true
 
 [[files]]
