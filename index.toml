@@ -2268,7 +2268,7 @@ hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
 file = "config/underground_village/common.json"
-hash = "1ab5a107be68917a4dff25e7585eda64541ff61cef09d9956d8a5ecc027c1fd0"
+hash = "991b822d91c075ae6fa8ce2f60d072f3a69ede0b981c134ab0a4fd9883d0fc76"
 
 [[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
