@@ -2842,6 +2842,11 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
+metafile = true
+
+[[files]]
 file = "mods/createnuclear.pw.toml"
 hash = "67ab07725f633de3c427914656c6ada7b0cd094cfee4ef34a7f8b4b0684bcf14"
 metafile = true
