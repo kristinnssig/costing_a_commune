@@ -2937,6 +2937,11 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2ee2481b63a012bdfb8c9f588788dd2f116ff48298014bb3e00d08a224fe14f"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
@@ -2964,6 +2969,11 @@ metafile = true
 [[files]]
 file = "mods/extra-sponges.pw.toml"
 hash = "fd949d8049e235d9111f7ff8d466407b87622cabb5bf1dbc25223850d1ecbb71"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "6bbf86eff97c1af9dec95f50d6bd2b72f25faaa456119ad27e5add68e45e639e"
 metafile = true
 
 [[files]]
@@ -3498,7 +3508,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "e9492e79e32be8021688d5c7a5ccf24379eece0df1570351aa8298623c5b9360"
+hash = "8e8cd2f6dcb6a46a568c13cd1ca3df0890f1389d6283ec36fc0fec20a22da057"
 metafile = true
 
 [[files]]
