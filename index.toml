@@ -3537,6 +3537,11 @@ hash = "829927bf4e0bc851f57bb641ce9262a27f719402d73667b3edb1dd9062abd029"
 metafile = true
 
 [[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "90df3fe04baefe2064d72661d9cb915b730ab918afbaa2e60d0a1363d43c2553"
+metafile = true
+
+[[files]]
 file = "mods/sawmill-house.pw.toml"
 hash = "97d4192b977b71da7b00f8ded775df0b3a8193e1d000cd209fcb826a18b31a37"
 metafile = true
@@ -3669,6 +3674,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "37d595b789dc86445ef6cf4773707a7a2e90ab9ecfec82e552ed7f2cdc598d78"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "56112679c853ae645f505078665df9db5b6bfb7aa0480d44cc8f2ba660ed4333"
 metafile = true
 
 [[files]]
