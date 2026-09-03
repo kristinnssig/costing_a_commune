@@ -2928,7 +2928,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "2e67c20c8e08ee6acb2b3c26c08a44958d9886bd213c41710e957739e9be4d48"
+hash = "aa4e860f4af41fdee7ce74089ba88eaf900420df2d1615d9d535877c5922e890"
 metafile = true
 
 [[files]]
@@ -3593,7 +3593,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
-hash = "3c6a5f1f52d1d4ddc1fb974c4bc56a6bea0d507f1f1f6a01efe86c2b8cf53cf0"
+hash = "ef163669cf106ce947b06f260d9d6ba600b6fd9d1ea54b9c34f6731452297934"
 metafile = true
 
 [[files]]
