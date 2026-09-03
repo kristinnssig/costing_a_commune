@@ -1,6 +1,6 @@
 name = "FindMe"
 filename = "findme-3.3.3-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
