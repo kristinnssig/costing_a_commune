@@ -2638,7 +2638,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+hash = "616036c38fafbcaf00c0720d947ec39f571d885a014f0c81b5eeeb4193784e0e"
 metafile = true
 
 [[files]]
@@ -3138,7 +3138,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
@@ -3548,7 +3548,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+hash = "b210b54498abff891f524a0ce32b7b81bfc88043604065bd4ece9e71c36427f4"
 metafile = true
 
 [[files]]
@@ -3598,7 +3598,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -3743,7 +3743,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "85d6b116578d44c074435499759f7be6090f1b2c131f129ae3127939591c1b78"
+hash = "06b1643383e54f2acb4631529c045842d7b6ef1a7c783c3acc6d11d82323f2d7"
 metafile = true
 
 [[files]]
