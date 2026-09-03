@@ -2657,6 +2657,11 @@ hash = "a20e9a5717d74baaa7a4c399f635b51214cfdc6d7bb28a39de48b29a74cba50f"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+metafile = true
+
+[[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "a99cbea1118047b1f042a70af6535cab1b5982621beb8f6acebe453e764f0be4"
 metafile = true
@@ -2668,7 +2673,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
+hash = "7a7eeb96f8cf82768269855ff837c07fa75daf32a6f560d85f2bf901402d70d3"
 metafile = true
 
 [[files]]
@@ -2728,7 +2733,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "23c3ad78a97a4bec1129f515939ef1cfd9833a15948dbaede7cb678c35b2d028"
+hash = "80547db2ebfc71d0d649534fe6fee7dabcf2a58770e8ff38218f6db874382204"
 metafile = true
 
 [[files]]
@@ -2838,7 +2843,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -2998,7 +3003,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "2451e72d798f4e5787c77dbe226818303122f9ef7f4798e622fc02e4c80264cb"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
@@ -3134,6 +3139,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -3317,11 +3327,6 @@ hash = "20ba1021bb3047a3c56ffa39b40c97638211934b3fb129b9ee9b66e99387822d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-covers.pw.toml"
-hash = "1cb48d65c752fa47bf5c4773c93b53b5bdda79ada16740cd73b453ba2c185b36"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-curios.pw.toml"
 hash = "9a68b7147925f990361923baf0647016ca2f2249c6f95db8e3c46d997dc175de"
 metafile = true
@@ -3359,6 +3364,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "161318b6de204d2528485fe7e401ce522f0be1d62eb5e15b9ac2ba10caf0771a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "6e3829e3de78efb1490e738fcc66b1ab7869d8f5a67400ca6028a001d347eebf"
 metafile = true
 
 [[files]]
@@ -3542,6 +3552,11 @@ hash = "90df3fe04baefe2064d72661d9cb915b730ab918afbaa2e60d0a1363d43c2553"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
+metafile = true
+
+[[files]]
 file = "mods/sawmill-house.pw.toml"
 hash = "97d4192b977b71da7b00f8ded775df0b3a8193e1d000cd209fcb826a18b31a37"
 metafile = true
@@ -3598,7 +3613,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
@@ -3653,7 +3668,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "def00ac62134dd91ad50f3336816941400d1afab58d82dea36abf266e87b50bd"
+hash = "28e1627fe3182a3b4b2cbb2a31fcbf2269192dea1d4b576f78702d8fcc199d6f"
 metafile = true
 
 [[files]]
