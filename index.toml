@@ -3178,7 +3178,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-string-unpatched-powered-permanent-string.pw.toml"
-hash = "ffbbdb7c688bfaccce9e463c560ca1ba5c3acde4c637f8189590cb49e90462b9"
+hash = "10aec073772a6d665d789d86b3bcf740fc8c24a010177d7dbdf49cbe85e9bcdf"
 metafile = true
 
 [[files]]
