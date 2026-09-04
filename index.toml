@@ -4171,6 +4171,11 @@ file = "shaderpacks/BSL_v10.0.zip.txt"
 hash = "bbdcc69ca2fe2c0bf5bb59d0e75c64fc2a2633ad1de3ff2b25f2eff8fcbf6b79"
 
 [[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "6c3e383528781963424860b339d4895a04f46405c1c730bdd7bfbc0ecc7ab3f7"
+metafile = true
+
+[[files]]
 file = "shaderpacks/miniature-shader-2.16.1.zip.txt"
 hash = "ad61e18504cc0fe322eae6eb75bb3c4e2695d3ad2d73d757f25e4c923ab5de92"
 
