@@ -3177,6 +3177,11 @@ hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
 metafile = true
 
 [[files]]
+file = "mods/forge-string-unpatched-powered-permanent-string.pw.toml"
+hash = "ffbbdb7c688bfaccce9e463c560ca1ba5c3acde4c637f8189590cb49e90462b9"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "6b58a62f77720c9a98248e060e71f50bc26c600d57e712921519352d16428f39"
 metafile = true
@@ -3794,11 +3799,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
-metafile = true
-
-[[files]]
-file = "mods/string-duper.pw.toml"
-hash = "df7f272efa342aa78001e5599b3e8d26e6267a1cde784a08e14f9d29b20a588e"
 metafile = true
 
 [[files]]

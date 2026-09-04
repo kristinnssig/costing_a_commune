@@ -1,0 +1,13 @@
+name = "Forge String Unpatched - Powered Permanent String"
+filename = "stringunpatched-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a621e24ebf60c7a154a23db73e9d86f7448f322"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6525760
+project-id = 1264741
