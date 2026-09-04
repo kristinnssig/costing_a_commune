@@ -2882,6 +2882,11 @@ hash = "b9b1973fab0b6aa7de361b9988803d2e9587d0961c67194fffa5708b2978b860"
 metafile = true
 
 [[files]]
+file = "mods/create-flight-control.pw.toml"
+hash = "bd25840a9ebf66e7408a198a6d4351f8015775979fb12caf031d133073f92f0a"
+metafile = true
+
+[[files]]
 file = "mods/create-high-seas.pw.toml"
 hash = "907376712d141a4fccaa450b6218c02cfe215816221edd80c171c60c5a806b6f"
 metafile = true
@@ -2924,6 +2929,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion-simulated.pw.toml"
+hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
 
 [[files]]
