@@ -2427,6 +2427,11 @@ hash = "69a635e5a98377526c153a40ef32c26a3c002bb892379970c2acbfc1fe852beb"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-hot-air-fix.pw.toml"
+hash = "55c8aefec97caf982304d74c1e7b5e0bc45b34da5be45afe9a1c9e23cfd144b3"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-wind-sound.pw.toml"
 hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
 metafile = true
