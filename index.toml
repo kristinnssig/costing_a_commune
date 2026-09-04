@@ -3797,6 +3797,11 @@ hash = "9f0cd1d096b591cb49077fbe4f95a1e24a93354cd9b4d77e74c49af2d29381cf"
 metafile = true
 
 [[files]]
+file = "mods/string-duper.pw.toml"
+hash = "df7f272efa342aa78001e5599b3e8d26e6267a1cde784a08e14f9d29b20a588e"
+metafile = true
+
+[[files]]
 file = "mods/structures-modd.pw.toml"
 hash = "104633769554fe31630938155f2910bf4eb12ddb52225ceceddd322ea01d934f"
 metafile = true
