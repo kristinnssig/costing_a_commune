@@ -2902,6 +2902,11 @@ hash = "453e009587d1dc000d03bd5087ecd4e4d0f1f6fa7b49768ef1ee031a4ad624a9"
 metafile = true
 
 [[files]]
+file = "mods/create-expanded-logistics.pw.toml"
+hash = "84103315eb77a9edc6fc98c8c25942622ecfc16a19bce3e7bc31e87b70cd860f"
+metafile = true
+
+[[files]]
 file = "mods/create-extra-gauges.pw.toml"
 hash = "d95e6392334e535403a5429904b77755b4a9716617f61618f7a4e608665764bd"
 metafile = true
@@ -3039,6 +3044,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "5b9c2ce4c14ae1d3bce7e2b02f617596947e8f3b978a3f30e1dee4ea782777fa"
 metafile = true
 
 [[files]]
