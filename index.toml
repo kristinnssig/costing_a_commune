@@ -3052,11 +3052,6 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "mods/create_factory_logistics.pw.toml"
-hash = "5b9c2ce4c14ae1d3bce7e2b02f617596947e8f3b978a3f30e1dee4ea782777fa"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "7aa0060e5df8631d27a789d73eb57d67c611b95be5bce4175810351e9479ae60"
 metafile = true
@@ -3789,6 +3784,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+metafile = true
+
+[[files]]
+file = "mods/repackaged.pw.toml"
+hash = "a140590c7774a2bded5db52b4bda7bd2fa952d541e5855ebf0ebbec12409cf99"
 metafile = true
 
 [[files]]
