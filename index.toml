@@ -2742,11 +2742,6 @@ hash = "78c50f99ccaad5ac718efd0efe2f5a6997da95359a003b08755d22be43370d6a"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-ftb-chunks.pw.toml"
-hash = "97ed9e6dd94e736065bd8706c4a87724968c841c4178ac8ff10c227d4ed15b5a"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
 hash = "1a6533f2dfb54f7e4ce86c528fd43b84620b5a7044e10f94eabbdf65d85b887c"
 metafile = true
