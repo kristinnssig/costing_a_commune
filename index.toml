@@ -2384,7 +2384,7 @@ hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
 file = "kubejs/server_scripts/ultimate_factory_tuff_restore.js"
-hash = "2cc776cea1bb93ae12c002c92df55f57255f545f6d095b86015f2ed4c64a28d8"
+hash = "7a6e4b86feff29407e9dfc6f92822b1f7856b8478e7a62097423cc27b806dee7"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
